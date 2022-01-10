@@ -1,4 +1,4 @@
 # elrincondeatom-profile
-Web Profile creada con Carrd
+Web Profile
 
 https://elrincondeatom-profile.netlify.app/
