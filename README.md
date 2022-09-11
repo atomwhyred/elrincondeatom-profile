@@ -2,11 +2,11 @@ Web Profile
 
 https://elrincondeatom-profile.netlify.app/
 
-Landing page responsive creada con HTML. Excelente si lo que deseas es mostrar un breve descripción de tu proyecto o lo que haces.
+Landing page responsive creada con HTML. Excelente si lo que deseas es mostrar una breve descripción de tu proyecto o lo que haces.
 
 ---
 
-### Capturas de pantalla de la
+### Capturas de pantalla
 
 ![](./assets/readme/home.png)
 
