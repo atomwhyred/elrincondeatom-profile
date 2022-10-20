@@ -1,4 +1,4 @@
-Web Profile
+Landing page
 
 https://elrincondeatom-profile.netlify.app/
 
@@ -17,7 +17,7 @@ Landing page responsive creada con HTML. Excelente si lo que deseas es mostrar u
 [![Twitter Follow](https://img.shields.io/twitter/follow/elrincondeatom?color=%231DA1F2&label=El%20Rinc%C3%B3n%20de%20Atom&logo=twitter&style=for-the-badge)](https://twitter.com/elrincondeatom) [<img height="30" src="https://img.icons8.com/color/48/000000/telegram-app.png" style="max-width:100%;">][tlg]
 
 ---
-### LOVE, DEV, TELEGRAM
+### LOVE - DEV - TELEGRAM
 
 - 🔭 Actualmente me estoy superando para ser un gran desarrollador.
 - 👯 Estoy colaborando en varios grupos y canales en Telegram.
